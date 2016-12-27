@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Source>C:\Users\43784\Desktop\57963137_p01.jpg</Source>
+    <SmallTileSource>C:\Users\43784\Desktop\57963137_p01.jpg</SmallTileSource>
+    <MediumTileSource>C:\Users\43784\Desktop\57963137_p01.jpg</MediumTileSource>
+    <WideTileSource>C:\Users\43784\Desktop\57963137_p01.jpg</WideTileSource>
+    <LargeTileSource>C:\Users\43784\Desktop\57963137_p01.jpg</LargeTileSource>
+    <AppIconSource>C:\Users\43784\Desktop\57963137_p01.jpg</AppIconSource>
+    <SplashScreenSource>C:\Users\43784\Desktop\57963137_p01.jpg</SplashScreenSource>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|ARM'">
+    <DeviceId>30F105C9-681E-420b-A277-7C086EAD8A4E</DeviceId>
+    <UseEmulator>true</UseEmulator>
+  </PropertyGroup>
+</Project>
